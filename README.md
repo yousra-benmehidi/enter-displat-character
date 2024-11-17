@@ -1,4 +1,4 @@
-# enter-displat-character
+# enter-display-character
 enter a character and display it in the following line
 
 [FR]
